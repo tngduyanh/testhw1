@@ -1,0 +1,12 @@
+#header{
+    background-color: lemonchiffon;
+    height: 350px;
+}
+#footer{
+    background-color: lemonchiffon;
+    }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
