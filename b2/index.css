@@ -79,7 +79,7 @@ nav .link-menu a{
     color: white;
     position: relative;
 
-    z-index: 99;
+    z-index: 999;
 }
 
 .content-menu .text p{
@@ -181,8 +181,124 @@ nav .link-menu a{
     text-align: justify;
 }
 
-.content-boxes .content-boxes .title{
+.content-boxes .content-box .title{
     font-size: 20px;
     text-align: left;
     line-height: 40px;
+}
+
+.home-banner{
+    width: 100%;
+    margin-top: 30px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.home-banner .banner-image{
+    width: 25%;
+    height: 275px;
+    z-index: 1;
+}
+
+.home-banner .banner-image img{
+    width: 100%;
+    height: 275px;
+    border: none;
+    display: block;
+    z-index: 1;
+}
+
+.content-guidance{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(240, 240, 240);
+}
+
+.content-guidance .guidance{
+    width: 800px;
+    height: fit-content;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.content-guidance .guidance img{
+    width: 200px;
+    height: 410px;
+}
+
+.content-guidance .max-width{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.guidance .steps{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.steps .step{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.steps .step i{
+    font-size: 50px;
+    color: orange;
+}
+
+.steps .step p{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.steps .download img{
+    width: 160px;
+    height: 50px;
+}
+
+.footer{
+    background-color: black;
+    width: 100%;
+}
+
+.footer .max-width{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer .max-width .info-top{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.info-top .menu {
+    width: 40%;
+}
+
+.info-top .menu a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: rgb(179, 177, 177);
+    font-weight: 400;
+}
+
+.footer .max-width .icon-contact {
+    color: rgb(179, 177, 177);
+    width: 15%;
+    margin-top: 10px;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
 }
