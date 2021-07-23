@@ -1,0 +1,300 @@
+#text1{
+    position:absolute;
+    top:40%;
+    left:12%;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    font-size: 4.6vw;
+    line-height: 1;
+    text-transform: uppercase;
+    color:white;
+    text-shadow: 1.5px 1.5px #000000;
+}
+.b1{
+    position:absolute; 
+    background-color:#ff9900; 
+    width:13.5vw; 
+    height:3vw
+}
+.text6{
+    font-family:'Teko', 'Oswald', sans-serif; 
+    color:black; 
+    letter-spacing: 2px; 
+    font-size: 1.5vw; 
+    color: white; 
+    margin-top:0.625vw;
+    text-align: center;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    text-decoration: none; 
+    font-family:cursive;
+    font-size:0.83vw;
+    position: absolute;
+    top:35%;
+}
+.image{
+    width:100%;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+.image2{
+    width:102%;
+    margin-top:-4px; 
+    margin-left:-7px;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+.image3{
+    width:102%;
+    margin-top:-4px; 
+    margin-right:3px;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+.image4{ 
+    width:100%;
+    height: 200%;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+.image5{ 
+    width:100%;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+#a1{
+    position:relative;
+    width:100%;
+    margin-top:3.38vw;
+}
+#text2{
+    font-weight:700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    text-shadow: 1.3px 1.3px #000000;
+    position: absolute;
+    top:45.25%;
+    left:43%;
+    font-size:1.25vw;
+}
+#a2{
+    position:relative;
+    width:50%;
+    float:left;
+}
+#a3{
+    position:relative;
+    width:50%;
+    float:left;
+}
+#text3{
+    position:absolute;
+    top:12%;
+    left:40%;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    font-size: 3.5vw;
+    line-height: 1;
+    text-transform: uppercase;
+    color:white;
+    text-shadow: 4px 4px #000000;
+}
+#text4{
+    position:absolute;
+    top:35%;
+    left:43%;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    font-size: 3.5vw;
+    line-height: 1;
+    text-transform: uppercase;
+    color:white;
+    text-shadow: 4px 4px #000000;
+}
+#text5{
+    position:absolute;
+    top:8%;
+    left:41%;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    font-size: 4.6vw;
+    line-height: 1;
+    text-transform: uppercase;
+    color:black;
+}
+#a4{
+    position:relative;
+    width:100%;
+    float:left;
+}
+#image5{
+    position:absolute;
+    top:23%;
+    left:14%;
+    width:35%;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+#image6{
+    position:absolute;
+    top:23%;
+    right:14%;
+    line-height: 1;
+    width:35%;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+.wtf{
+    text-decoration: none; margin-right: 0.4166666666666667vw; margin-left:0.4166666666666667vw; font-family:'Source Sans Pro', sans-serif; font-size:0.72vw
+}
+.I{
+    font-family:Arial, Helvetica, sans-serif; display:inline-block; color:grey; font-size: 0.8333333333333334vw;
+}
+#c2{
+    display:inline-block; color:white; width:fit-content; vertical-align: -0.05vw; font-family: 'Source Sans Pro', sans-serif; color:grey; font-size: 0.72vw; margin-left:0.625vw
+}
+#c1{
+    width:4.16vw; margin-left:2.34vw; margin-top:1.82vw; display:inline-block
+}
+.b2{
+    text-align:center; 
+    text-decoration:unset
+}
+#image7{
+    position:absolute;
+    top:58%;
+    left:14%;
+    line-height: 1;
+    width:35%;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+#image8{
+    position:absolute;
+    top:58%;
+    right:14%;
+    line-height: 1;
+    width:35%;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+.b3{
+    position:absolute; 
+    background-color:#ff9900; 
+    height:3vw;
+    width:35%
+}
+#a5{
+    position:relative;
+    width:100%;
+}
+.text7{
+    position: absolute;
+    top:62%;
+    left:15%;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    font-size:1.82vw;
+    z-index:9
+}
+.text8{
+    position: absolute;
+    top:67%;
+    left:15%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:0.9vw;
+    z-index:9;
+    color:grey;
+}
+.text9{
+    position: absolute;
+    top:62%;
+    left:52.2%;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    font-size:1.82vw;
+    z-index:9
+}
+.text10{
+    position: absolute;
+    top:67%;
+    left:52.2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:0.9vw;
+    z-index:9;
+    color:grey;
+}
+#d1{
+    font-size:3.125vw; position: absolute; top:-2%; left:57%;font-family:'Teko', 'Oswald', sans-serif; text-align: left; color: white; line-height: 3.5vw
+}
+#d2{
+    font-size:0.88vw; position: absolute; top:32%; left: 57%; font-family: Arial, Helvetica, sans-serif; color:lightgrey; text-align: left;
+}
+#d3{
+    position: absolute; top: 47%; left: 57%; width: 9.479166666666666vw
+}
+#d4{
+    position: absolute; top: 47%; left: 67.7%; width: 9.479166666666666vw
+}
+#d5{
+    position: absolute; top: 47%; left: 78.4%; width: 9.479166666666666vw
+}
+#d6{
+    position: absolute; top: 62%; left: 57%; width: 9.479166666666666vw
+}
+#a5{
+    position:relative;
+    width:100%;
+    float:left;
+}
+#y3{
+    overflow-x: hidden;
+}
+#textn{
+    position:absolute;
+    top:5%;
+    left:5%;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    font-size: 4.6vw;
+    line-height: 1;
+    text-transform: uppercase;
+    color:white;
+    text-shadow: 2px 2px #000000;
+    z-index:5;
+}
+#z1{
+    position: relative;
+    width:100%;
+    float: left;
+    margin-top:-5px;
+}
+.textn1{
+    font-family:'Teko', 'Oswald', sans-serif; 
+    color:black; 
+    letter-spacing: 2px; 
+    font-size: 1.5vw; 
+    color: white; 
+    margin-top:0.625vw
+}
+.z2{
+    text-align:center; 
+    text-decoration:unset;
+    z-index:5;
+}
+.z3{
+    position:absolute; 
+    background-color:#ff9900; 
+    height:3vw;
+    width:20%
+}
+#imagen{
+    width:100%;
+}

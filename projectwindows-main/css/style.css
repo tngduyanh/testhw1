@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* file sử dụng để tận dụng các css giống nhau giữa 
+các trang  */
+
+.wrapper input {
+    outline: none;
+    border: 1px solid #dbdbdb;
+    padding: 10px 15px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.wrapper {
+    margin-bottom: 10px;
+}
+
+.button {
+    cursor: pointer;
+    padding: 10px 20px;
+    color: #ffffff;
+    background-color: #1f6ac4;
+    outline: none;
+    border-radius: 5px;
+}
+
+.error {
+    color: red;
+    font-size:20px
+}
+
+.cursor {
+    cursor: pointer;
+    color: white;
+    font-family: cursive;
+    font-size:40px
+}
+
+.fma span {
+    font-size: 25px;
+}

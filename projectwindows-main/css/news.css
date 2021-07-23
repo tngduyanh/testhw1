@@ -1,0 +1,73 @@
+.head{
+    text-decoration: none; 
+    font-family:cursive;
+    font-size:0.83vw;
+    position: absolute;
+    top:35%;
+}
+#a1{
+    background-color: white;
+    width: 50%;
+    height: 150%;
+    position: absolute;
+    left:25%;
+    top:15%;
+    z-index: 5;
+}
+#text1{
+    position:absolute;
+    top:2%;
+    left:5%;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    font-size: 3vw;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.a2{
+    position: relative;
+    margin-top: 5.989583333333333vw;
+    left:5%;
+    width: 90%;
+    height: 15%;
+    background-color: black;
+}
+.image1{
+    position: absolute;
+    width: 30%;
+}
+.text12{
+    color: white;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    font-size: 3vw;
+    text-transform: uppercase;
+    top: 10%;
+    right: 5%;
+    position: absolute;
+}
+.text13{
+    color: white;
+    font-family: 'Teko', 'Oswald', sans-serif;
+    font-size: 1.5vw;
+    text-transform: uppercase;
+    top: 40%;
+    right: 5%;
+    position: absolute;
+}
+.b2{
+    text-align:center; 
+    text-decoration:unset
+}
+.b1{
+    position:absolute;
+    background-color:#ff9900; 
+    width: 30%;
+    height:25%;
+}
+.text16{
+    font-family:'Teko', 'Oswald', sans-serif; 
+    color:black; 
+    letter-spacing: 2px; 
+    font-size: 1.5vw; 
+    color: white; 
+    margin-top:0.4vw
+}

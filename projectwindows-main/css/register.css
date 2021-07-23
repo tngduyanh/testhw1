@@ -1,0 +1,39 @@
+.reg-cont {
+    height: 100vh;
+    /*background-image: url(../img/2833010.jpg);*/
+    background-color: black;
+    background-size: cover;
+    display: flex;
+    justify-content:center;
+}
+
+.reg-cont .ar {
+    height: 100%;
+    width: 30%;
+    position: absolute;
+    top:20%
+}
+
+.reg-cont .ar .header h3 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: /*#615f5f*/white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.reg-cont .inputname{
+    display: flex;
+    justify-content: space-between;
+}
+
+.reg-cont .inputname .wrapper{
+    width: 48%;
+}
+
+#reg-form{
+    padding: 20px;
+}
+
+
+

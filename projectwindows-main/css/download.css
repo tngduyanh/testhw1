@@ -1,0 +1,12 @@
+.download{
+    display:block;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.normtext{
+    display:block;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color:black;
+}

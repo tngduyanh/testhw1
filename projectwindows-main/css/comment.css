@@ -1,0 +1,29 @@
+#message{
+    outline: none;
+    border: 1px solid #dbdbdb;
+    padding: 10px 15px;
+    border-radius: 5px;
+    width: 100%;
+    display: block;
+    margin-bottom: 10px; 
+}
+.button {
+    cursor: pointer;
+    padding: 10px 20px;
+    color: #ffffff;
+    background-color: #1f6ac4;
+    outline: none;
+    border-radius: 5px;
+}
+.messages{
+    text-align: left;
+    padding: 7px 10px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-wrap: break-word;
+}
+#imageicon{
+    width:32px;
+    height:32px;
+    float: left;
+}
